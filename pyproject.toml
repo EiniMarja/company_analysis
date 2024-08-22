@@ -1,0 +1,18 @@
+[tool.poetry]
+name = "tt00cd77-exercises"
+version = "0.1.0"
+description = ""
+authors = ["Teemu Siikaniemi <teemu.siikaniemi@gmail.com>"]
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.12"
+pytest = "^8.2.2"
+coverage = "^7.5.3"
+parameterized = "^0.9.0"
+
+[tool.poetry.group.dev.dependencies]
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
