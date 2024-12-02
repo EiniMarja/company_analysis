@@ -2,72 +2,72 @@
 
 ## Etunimi Sukunimi [AB1234]
 
-### Harjoitukset 1
-- [ ] L01T01
-- [ ] L01T02
-- [ ] L01T03
-- [ ] L01T04
-- [ ] L01T05 
+### [Harjoitukset 1](https://tt00cd77-python.pages.labranet.jamk.fi/material/harjoitukset/harjoitukset01/)
+- [ ] [L01T01](L01/L01T01.py)
+- [ ] [L01T02](L01/L01T02.py)
+- [ ] [L01T03](L01/L01T03.py)
+- [ ] [L01T04](L01/L01T04.py)
+- [ ] [L01T05](L01/L01T05.py)
 
-### Harjoitukset 2
-- [ ] L02T01
-- [ ] L02T02
-- [ ] L02T03
-- [ ] L02T04
-- [ ] L02T05
+### [Harjoitukset 2](https://tt00cd77-python.pages.labranet.jamk.fi/material/harjoitukset/harjoitukset02/)
+- [ ] [L02T01](L02/L02T01.py)
+- [ ] [L02T02](L02/L02T02.py)
+- [ ] [L02T03](L02/L02T03.py)
+- [ ] [L02T04](L02/L02T04.py)
+- [ ] [L02T05](L02/L02T05.py)
 
-### Harjoitukset 3
-- [ ] L03T01
-- [ ] L03T02
-- [ ] L03T03
-- [ ] L03T04
-- [ ] L03T05
+### [Harjoitukset 3](https://tt00cd77-python.pages.labranet.jamk.fi/material/harjoitukset/harjoitukset03/)
+- [ ] [L03T01](L03/L03T01.py)
+- [ ] [L03T02](L03/L03T02.py)
+- [ ] [L03T03](L03/L03T03.py)
+- [ ] [L03T04](L03/L03T04.py)
+- [ ] [L03T05](L03/L03T05.py)
 
-### Harjoitukset 4
-- [ ] L04T01
-- [ ] L04T02
-- [ ] L04T03
-- [ ] L04T04
-- [ ] L04T05
+### [Harjoitukset 4](https://tt00cd77-python.pages.labranet.jamk.fi/material/harjoitukset/harjoitukset04/)
+- [ ] [L04T01](L04/L04T01.py)
+- [ ] [L04T02](L04/L04T02.py)
+- [ ] [L04T03](L04/L04T03.py)
+- [ ] [L04T04](L04/L04T04.py)
+- [ ] [L04T05](L04/L04T05.py)
 
-### Harjoitukset 5
-- [ ] L05T01
-- [ ] L05T02
-- [ ] L05T03
-- [ ] L05T04
-- [ ] L05T05
+### [Harjoitukset 5](https://tt00cd77-python.pages.labranet.jamk.fi/material/harjoitukset/harjoitukset05/)
+- [ ] [L05T01](L05/L05T01.py)
+- [ ] [L05T02](L05/L05T02.py)
+- [ ] [L05T03](L05/L05T03.py)
+- [ ] [L05T04](L05/L05T04.py)
+- [ ] [L05T05](L05/L05T05.py)
 
-### Harjoitukset 6
-- [ ] L06T01
-- [ ] L06T02
-- [ ] L06T03
-- [ ] L06T04
-- [ ] L06T05
+### [Harjoitukset 6](https://tt00cd77-python.pages.labranet.jamk.fi/material/harjoitukset/harjoitukset06/)
+- [ ] [L06T01](L06/L06T01.py)
+- [ ] [L06T02](L06/L06T02.py)
+- [ ] [L06T03](L06/L06T03.py)
+- [ ] [L06T04](L06/L06T04.py)
+- [ ] [L06T05](L06/L06T05.py)
 
-### Harjoitukset 7
-- [ ] L07T01
-- [ ] L07T02
-- [ ] L07T03
-- [ ] L07T04
-- [ ] L07T05
+### [Harjoitukset 7](https://tt00cd77-python.pages.labranet.jamk.fi/material/harjoitukset/harjoitukset07/)
+- [ ] [L07T01](L07/L07T01.py)
+- [ ] [L07T02](L07/L07T02.py)
+- [ ] [L07T03](L07/L07T03.py)
+- [ ] [L07T04](L07/L07T04.py)
+- [ ] [L07T05](L07/L07T05.py)
 
-### Harjoitukset 8
-- [ ] L08T01
-- [ ] L08T02
-- [ ] L08T03
-- [ ] L08T04
-- [ ] L08T05
+### [Harjoitukset 8](https://tt00cd77-python.pages.labranet.jamk.fi/material/harjoitukset/harjoitukset08/)
+- [ ] [L08T01](L08/L08T01.py)
+- [ ] [L08T02](L08/L08T02.py)
+- [ ] [L08T03](L08/L08T03.py)
+- [ ] [L08T04](L08/L08T04.py)
+- [ ] [L08T05](L08/L08T05.py)
 
-### Harjoitukset 9
-- [ ] L09T01
-- [ ] L09T02
-- [ ] L09T03
-- [ ] L09T04
-- [ ] L09T05
+### [Harjoitukset 9](https://tt00cd77-python.pages.labranet.jamk.fi/material/harjoitukset/harjoitukset09/)
+- [ ] [L09T01](L09/L09T01.py)
+- [ ] [L09T02](L09/L09T02.py)
+- [ ] [L09T03](L09/L09T03.py)
+- [ ] [L09T04](L09/L09T04.py)
+- [ ] [L09T05](L09/L09T05.py)
 
-### Harjoitukset 10
-- [ ] L10T01
-- [ ] L10T02
-- [ ] L10T03
-- [ ] L10T04
-- [ ] L10T05
+### [Harjoitukset 10](https://tt00cd77-python.pages.labranet.jamk.fi/material/harjoitukset/harjoitukset10/)
+- [ ] [L10T01](L10/L10T01.py)
+- [ ] [L10T02](L10/L10T02.py)
+- [ ] [L10T03](L10/L10T03.py)
+- [ ] [L10T04](L10/L10T04.py)
+- [ ] [L10T05](L10/L10T05.py)
