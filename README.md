@@ -1,5 +1,7 @@
 # Ohjelmoinnin perusteet TT00CD77
 
+[Viimeisimmän testiajon raportti](../-/jobs/artifacts/main/browse?job=test_job)
+
 ## Etunimi Sukunimi [AB1234]
 
 ### [Harjoitukset 1](https://tt00cd77-python.pages.labranet.jamk.fi/material/harjoitukset/harjoitukset01/)
