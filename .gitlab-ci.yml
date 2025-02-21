@@ -1,3 +1,3 @@
 include:
   - project: 'tt00cd77-python/ci-templates'
-    file: '.gitlab-ci-tt00cd77.yml'
+    file: '.gitlab-ci-tt00cd77-pages.yml'
