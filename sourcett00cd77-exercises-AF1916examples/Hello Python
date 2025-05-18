@@ -8,10 +8,15 @@ import os
 user = os.getlogin()
 
 # declare a variable named 'msg' and set some text into it
-msg = f"Tämän ohjelman suoritti {user}"
+msg = f"Tämän ohjelman suoritti af1916 {user}"
 
 # print the message into console
 print(msg)
 
 # print the current date and time
 print(datetime.datetime.now())
+
+# read text from console and echo back
+text = input('Kirjoita jotain tekstiä: ')
+print("Kirjoitit: ")
+print(text)
