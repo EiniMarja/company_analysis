@@ -1,0 +1,17 @@
+# import the datetime library to access current date and time
+import datetime
+
+# import the os library to access the current logged in user
+import os
+
+# declare a variable named 'user' and set the current logged in user into it
+user = os.getlogin()
+
+# declare a variable named 'msg' and set some text into it
+msg = f"Tämän ohjelman suoritti {user}"
+
+# print the message into console
+print(msg)
+
+# print the current date and time
+print(datetime.datetime.now())
