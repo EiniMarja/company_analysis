@@ -1,5 +1,5 @@
-# Kysytään käyttäjältä hänen sukunimi
+# Kysytään käyttäjältä hänen sukunimi ja tulostetaan käyttäjän anatamassa sukunimen merkkimäärä
 lastname = input("Anna sukunimesi: ")
-# print text length into console
+# Printataan sukunimen pituuden merkkimäärä
 lastnameleght = len(lastname)
 print(lastnameleght)

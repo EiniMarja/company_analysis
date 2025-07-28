@@ -1,6 +1,6 @@
-#Tuodaan Pythoniin datetime (class)
+# Tuodaan Pythoniin datetime (class)
 from datetime import datetime
-#Kysytään käyttäjältä hänen etunimi ja syntymävuosi3
+# Kysytään käyttäjältä hänen etunimi ja syntymävuosi3
 firstname = input("Anna etunimesi: ")
 birth_year= int(input("Anna syntymävuotesi: "))
 recent_year = datetime.now().year

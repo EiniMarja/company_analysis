@@ -1,7 +1,7 @@
-# KyAsytään käyttäjältä hänen kokonimeänsä
+# Kysytään käyttäjältä hänen kokonimeänsä
 fullname = input("nimi = ")
 i = fullname.find(' ')
-#Slice-syntaksilla haetaan etunimen ja sukunimen erottelu 
+# Slice-syntaksilla haetaan etunimen ja sukunimen erottelu 
 firstname = fullname[:i]
 lastname = fullname[i+1:]
 last_index = len(fullname) 
