@@ -15,3 +15,4 @@ Erillisen harjoitustehtäväpäiväkirjan pitäminen tai pisteiden manuaalinen l
 Jos jokin tehtävän testi epäonnistuu, näkyy tehtävän edessä punainen puhekupla, pistemäärän ollessa 0p. Ohitettujen (skipped, tiedostoa tai funktiota ei löydy) testien yhteydessä puhekuplan väri on harmaa. Voit tarkastella yksittäisen tehtävän testituloksia klikkaamalla tehtävän nimeä. Tulokset avautuvat sellaisten tehtävien kohdalta, joissa on skipattuja tai epäonnistuneita testejä.
 
 **HUOM! Älä forkkaa projektia omalle käyttäjällesi**, [testiraportti ja tehtäväpisteet](https://tt00cd77-exercises-af1916-c96cd0.pages.labranet.jamk.fi) päivittyvät ainoastaan tästä automaattisesti luodusta projektista!
+# company_analysis
