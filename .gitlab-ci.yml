@@ -1,3 +1,0 @@
-include:
-  - project: 'tt00cd77-python/ci-templates'
-    file: '.gitlab-ci-tt00cd77.yml'
